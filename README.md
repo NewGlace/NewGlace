@@ -13,9 +13,9 @@ I'm NewGlace (but call me New').
 [![ Kotlin ](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)](https://kotlinlang.org//) 
 
 ### Statistics 📈
-![Github Stats just for flex](https://github-readme-stats.vercel.app/api?username=newglace&show_icons=true&theme=cobalt&count_private=true)
+![Github Stats just for flex](https://github-readme-stats.vercel.app/api?username=newglace&show_icons=true&theme=github_dark&count_private=true)
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=newglace&layout=compact&theme=outrun)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=newglace&layout=compact&theme=github_dark)
 
 <!--
 **NewGlace/NewGlace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
