@@ -9,7 +9,6 @@ I'm NewGlace (but call me New').
 
 [![ JavaScript ](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![ TypeScript ](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/) 
-[![ Python ](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://www.python.org/) 
 [![ Java ](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)](https://www.java.com/) 
 [![ Kotlin ](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)](https://kotlinlang.org//) 
 
